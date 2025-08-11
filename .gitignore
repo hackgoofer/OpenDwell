@@ -3,7 +3,7 @@
 .streamlit/secrets.toml
 .env
 user_config.json
-filebase-key.json
+firebase-key.json
 config.yaml
 
 .venv/
