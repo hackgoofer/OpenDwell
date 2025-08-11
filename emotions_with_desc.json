@@ -1,0 +1,1010 @@
+{
+  "Pleased": {
+    "x": 0.5,
+    "y": 0.5,
+    "name": "Pleased",
+    "type": "high_eng_pleasant",
+    "description": "to afford or give pleasure or satisfaction"
+  },
+  "Pleasant": {
+    "x": 0.5,
+    "y": 1.5,
+    "name": "Pleasant",
+    "type": "high_eng_pleasant",
+    "description": "having qualities that tend to give pleasure : agreeable"
+  },
+  "Cheerful": {
+    "x": 0.5,
+    "y": 2.5,
+    "name": "Cheerful",
+    "type": "high_eng_pleasant",
+    "description": "full of good spirits : merry"
+  },
+  "Energized": {
+    "x": 0.5,
+    "y": 3.5,
+    "name": "Energized",
+    "type": "high_eng_pleasant",
+    "description": "to make energetic, vigorous, or active"
+  },
+  "Excited": {
+    "x": 0.5,
+    "y": 4.5,
+    "name": "Excited",
+    "type": "high_eng_pleasant",
+    "description": "having, showing, or characterized by a heightened state of energy, enthusiasm, eagerness, etc. : feeling or showing excitement"
+  },
+  "Surprised": {
+    "x": 0.5,
+    "y": 5.5,
+    "name": "Surprised",
+    "type": "high_eng_pleasant",
+    "description": "feeling or showing surprise because of something unexpected"
+  },
+  "Awe": {
+    "x": 1.5,
+    "y": 5.5,
+    "name": "Awe",
+    "type": "high_eng_pleasant",
+    "description": "an emotion variously combining dread, veneration, and wonder that is inspired by authority or by the sacred or sublime"
+  },
+  "Determined": {
+    "x": 1.5,
+    "y": 4.5,
+    "name": "Determined",
+    "type": "high_eng_pleasant",
+    "description": "having reached a decision : firmly resolved"
+  },
+  "Eager": {
+    "x": 1.5,
+    "y": 3.5,
+    "name": "Eager",
+    "type": "high_eng_pleasant",
+    "description": "marked by enthusiastic or impatient desire or interest"
+  },
+  "Curious": {
+    "x": 1.5,
+    "y": 2.5,
+    "name": "Curious",
+    "type": "high_eng_pleasant",
+    "description": "marked by desire to investigate and learn"
+  },
+  "Focused": {
+    "x": 1.5,
+    "y": 1.5,
+    "name": "Focused",
+    "type": "high_eng_pleasant",
+    "description": "to cause to be concentrated"
+  },
+  "Playful": {
+    "x": 1.5,
+    "y": 0.5,
+    "name": "Playful",
+    "type": "high_eng_pleasant",
+    "description": "full of play : frolicsome, sportive"
+  },
+  "Delighted": {
+    "x": 2.5,
+    "y": 0.5,
+    "name": "Delighted",
+    "type": "high_eng_pleasant",
+    "description": "delightful"
+  },
+  "Alive": {
+    "x": 2.5,
+    "y": 1.5,
+    "name": "Alive",
+    "type": "high_eng_pleasant",
+    "description": "having life : not dead or inanimate"
+  },
+  "Upbeat": {
+    "x": 2.5,
+    "y": 2.5,
+    "name": "Upbeat",
+    "type": "high_eng_pleasant",
+    "description": "an unaccented beat or portion of a beat in a musical measure; specifically : the last beat of the measure"
+  },
+  "Enthusiastic": {
+    "x": 2.5,
+    "y": 3.5,
+    "name": "Enthusiastic",
+    "type": "high_eng_pleasant",
+    "description": "filled with or marked by enthusiasm"
+  },
+  "Stressful": {
+    "x": 2.5,
+    "y": 4.5,
+    "name": "Stressful",
+    "type": "high_eng_pleasant",
+    "description": "full of or tending to induce stress"
+  },
+  "Exhilarated": {
+    "x": 2.5,
+    "y": 5.5,
+    "name": "Exhilarated",
+    "type": "high_eng_pleasant",
+    "description": "very happy and excited or elated"
+  },
+  "Thrilled": {
+    "x": 3.5,
+    "y": 5.5,
+    "name": "Thrilled",
+    "type": "high_eng_pleasant",
+    "description": "extremely pleased and excited"
+  },
+  "Amazed": {
+    "x": 3.5,
+    "y": 4.5,
+    "name": "Amazed",
+    "type": "high_eng_pleasant",
+    "description": "feeling or showing great surprise or wonder"
+  },
+  "Joyful": {
+    "x": 3.5,
+    "y": 3.5,
+    "name": "Joyful",
+    "type": "high_eng_pleasant",
+    "description": "experiencing, causing, or showing joy : happy"
+  },
+  "Happy": {
+    "x": 3.5,
+    "y": 2.5,
+    "name": "Happy",
+    "type": "high_eng_pleasant",
+    "description": "favored by luck or fortune : fortunate"
+  },
+  "Confident": {
+    "x": 3.5,
+    "y": 1.5,
+    "name": "Confident",
+    "type": "high_eng_pleasant",
+    "description": "full of conviction : certain"
+  },
+  "Wishful": {
+    "x": 3.5,
+    "y": 0.5,
+    "name": "Wishful",
+    "type": "high_eng_pleasant",
+    "description": "expressive of a wish : hopeful"
+  },
+  "Hopeful": {
+    "x": 4.5,
+    "y": 0.5,
+    "name": "Hopeful",
+    "type": "high_eng_pleasant",
+    "description": "having qualities which inspire hope"
+  },
+  "Engaged": {
+    "x": 4.5,
+    "y": 1.5,
+    "name": "Engaged",
+    "type": "high_eng_pleasant",
+    "description": "involved in activity : occupied, busy"
+  },
+  "Motivated": {
+    "x": 4.5,
+    "y": 2.5,
+    "name": "Motivated",
+    "type": "high_eng_pleasant",
+    "description": "provided with a motive : having an incentive or a strong desire to do well or succeed in some pursuit"
+  },
+  "Productive": {
+    "x": 4.5,
+    "y": 3.5,
+    "name": "Productive",
+    "type": "high_eng_pleasant",
+    "description": "having the quality or power of producing especially in abundance"
+  },
+  "Inspired": {
+    "x": 4.5,
+    "y": 4.5,
+    "name": "Inspired",
+    "type": "high_eng_pleasant",
+    "description": "outstanding or brilliant in a way or to a degree suggestive of divine inspiration"
+  },
+  "Elated": {
+    "x": 4.5,
+    "y": 5.5,
+    "name": "Elated",
+    "type": "high_eng_pleasant",
+    "description": "marked by high spirits : exultant"
+  },
+  "Ecstatic": {
+    "x": 5.5,
+    "y": 5.5,
+    "name": "Ecstatic",
+    "type": "high_eng_pleasant",
+    "description": "of, relating to, or marked by ecstasy"
+  },
+  "Empowered": {
+    "x": 5.5,
+    "y": 4.5,
+    "name": "Empowered",
+    "type": "high_eng_pleasant",
+    "description": "having the knowledge, confidence, means, or ability to do things or make decisions for oneself"
+  },
+  "Proud": {
+    "x": 5.5,
+    "y": 3.5,
+    "name": "Proud",
+    "type": "high_eng_pleasant",
+    "description": "feeling or showing pride: such as"
+  },
+  "Optimistic": {
+    "x": 5.5,
+    "y": 2.5,
+    "name": "Optimistic",
+    "type": "high_eng_pleasant",
+    "description": "of, relating to, or characterized by optimism : feeling or showing hope for the future"
+  },
+  "Challenged": {
+    "x": 5.5,
+    "y": 1.5,
+    "name": "Challenged",
+    "type": "high_eng_pleasant",
+    "description": "presented with difficulties (as by a disability)"
+  },
+  "Accomplished": {
+    "x": 5.5,
+    "y": 0.5,
+    "name": "Accomplished",
+    "type": "high_eng_pleasant",
+    "description": "proficient as the result of practice or training; also : skillfully done or produced"
+  },
+  "Blissful": {
+    "x": 5.5,
+    "y": -0.5,
+    "name": "Blissful",
+    "type": "low_eng_pleasant",
+    "description": "full of, marked by, or causing complete happiness"
+  },
+  "Connected": {
+    "x": 5.5,
+    "y": -1.5,
+    "name": "Connected",
+    "type": "low_eng_pleasant",
+    "description": "joined or linked together"
+  },
+  "Grateful": {
+    "x": 5.5,
+    "y": -2.5,
+    "name": "Grateful",
+    "type": "low_eng_pleasant",
+    "description": "appreciative of benefits received"
+  },
+  "Moved": {
+    "x": 5.5,
+    "y": -3.5,
+    "name": "Moved",
+    "type": "low_eng_pleasant",
+    "description": "to go or pass to another place or in a certain direction with a continuous motion"
+  },
+  "Blessed": {
+    "x": 5.5,
+    "y": -4.5,
+    "name": "Blessed",
+    "type": "low_eng_pleasant",
+    "description": "held in reverence : venerated"
+  },
+  "Serene": {
+    "x": 5.5,
+    "y": -5.5,
+    "name": "Serene",
+    "type": "low_eng_pleasant",
+    "description": "marked by or suggestive of utter calm and unruffled repose or quietude"
+  },
+  "Satisfied": {
+    "x": 4.5,
+    "y": -5.5,
+    "name": "Satisfied",
+    "type": "low_eng_pleasant",
+    "description": "pleased or content with what has been experienced or received"
+  },
+  "Secure": {
+    "x": 4.5,
+    "y": -4.5,
+    "name": "Secure",
+    "type": "low_eng_pleasant",
+    "description": "free from danger"
+  },
+  "Accepted": {
+    "x": 4.5,
+    "y": -3.5,
+    "name": "Accepted",
+    "type": "low_eng_pleasant",
+    "description": "regarded favorably : given approval or acceptance; especially : generally approved or used"
+  },
+  "Valued": {
+    "x": 4.5,
+    "y": -2.5,
+    "name": "Valued",
+    "type": "low_eng_pleasant",
+    "description": "having a value or values especially of a specified kind or number \u2014often used in combination"
+  },
+  "Loved": {
+    "x": 4.5,
+    "y": -1.5,
+    "name": "Loved",
+    "type": "low_eng_pleasant",
+    "description": "to hold dear : cherish"
+  },
+  "Fulfilled": {
+    "x": 4.5,
+    "y": -0.5,
+    "name": "Fulfilled",
+    "type": "low_eng_pleasant",
+    "description": "feeling happiness and satisfaction : feeling that one's abilities and talents are being fully used"
+  },
+  "Respected": {
+    "x": 3.5,
+    "y": -0.5,
+    "name": "Respected",
+    "type": "low_eng_pleasant",
+    "description": "to consider worthy of high regard : esteem"
+  },
+  "Supported": {
+    "x": 3.5,
+    "y": -1.5,
+    "name": "Supported",
+    "type": "low_eng_pleasant",
+    "description": "to endure bravely or quietly : bear"
+  },
+  "Included": {
+    "x": 3.5,
+    "y": -2.5,
+    "name": "Included",
+    "type": "low_eng_pleasant",
+    "description": "to take in or comprise as a part of a whole or group"
+  },
+  "Content": {
+    "x": 3.5,
+    "y": -3.5,
+    "name": "Content",
+    "type": "low_eng_pleasant",
+    "description": "something contained \u2014usually used in plural"
+  },
+  "Safe": {
+    "x": 3.5,
+    "y": -4.5,
+    "name": "Safe",
+    "type": "low_eng_pleasant",
+    "description": "free from harm or risk : unhurt"
+  },
+  "Relieved": {
+    "x": 3.5,
+    "y": -5.5,
+    "name": "Relieved",
+    "type": "low_eng_pleasant",
+    "description": "experiencing or showing relief especially from anxiety or pent-up emotions"
+  },
+  "Thankful": {
+    "x": 2.5,
+    "y": -5.5,
+    "name": "Thankful",
+    "type": "low_eng_pleasant",
+    "description": "conscious of benefit received"
+  },
+  "Balanced": {
+    "x": 2.5,
+    "y": -4.5,
+    "name": "Balanced",
+    "type": "low_eng_pleasant",
+    "description": "being in a state of balance : having different parts or elements properly or effectively arranged, proportioned, regulated, considered, etc."
+  },
+  "Empathetic": {
+    "x": 2.5,
+    "y": -3.5,
+    "name": "Empathetic",
+    "type": "low_eng_pleasant",
+    "description": "involving, characterized by, or based on empathy"
+  },
+  "Compassionate": {
+    "x": 2.5,
+    "y": -2.5,
+    "name": "Compassionate",
+    "type": "low_eng_pleasant",
+    "description": "having or showing compassion : sympathetic"
+  },
+  "Appreciated": {
+    "x": 2.5,
+    "y": -1.5,
+    "name": "Appreciated",
+    "type": "low_eng_pleasant",
+    "description": "to grasp the nature, worth, quality, or significance of"
+  },
+  "Understood": {
+    "x": 2.5,
+    "y": -0.5,
+    "name": "Understood",
+    "type": "low_eng_pleasant",
+    "description": "fully apprehended"
+  },
+  "At Ease": {
+    "x": 1.5,
+    "y": -0.5,
+    "name": "At Ease",
+    "type": "low_eng_pleasant",
+    "description": "the state of being comfortable: such as"
+  },
+  "Thoughtful": {
+    "x": 1.5,
+    "y": -1.5,
+    "name": "Thoughtful",
+    "type": "low_eng_pleasant",
+    "description": "absorbed in thought : meditative"
+  },
+  "Chill": {
+    "x": 1.5,
+    "y": -2.5,
+    "name": "Chill",
+    "type": "low_eng_pleasant",
+    "description": "a sensation of cold accompanied by shivering (as due to illness) \u2014usually plural"
+  },
+  "Comfortable": {
+    "x": 1.5,
+    "y": -3.5,
+    "name": "Comfortable",
+    "type": "low_eng_pleasant",
+    "description": "affording or enjoying contentment and security"
+  },
+  "Peaceful": {
+    "x": 1.5,
+    "y": -4.5,
+    "name": "Peaceful",
+    "type": "low_eng_pleasant",
+    "description": "peaceable"
+  },
+  "Tranquil": {
+    "x": 1.5,
+    "y": -5.5,
+    "name": "Tranquil",
+    "type": "low_eng_pleasant",
+    "description": "free from agitation of mind or spirit"
+  },
+  "Carefree": {
+    "x": 0.5,
+    "y": -5.5,
+    "name": "Carefree",
+    "type": "low_eng_pleasant",
+    "description": "free from care: such as"
+  },
+  "Mellow": {
+    "x": 0.5,
+    "y": -4.5,
+    "name": "Mellow",
+    "type": "low_eng_pleasant",
+    "description": "tender and sweet because of ripeness"
+  },
+  "Sympathetic": {
+    "x": 0.5,
+    "y": -3.5,
+    "name": "Sympathetic",
+    "type": "low_eng_pleasant",
+    "description": "existing or operating through an affinity, interdependence, or mutual association"
+  },
+  "Relaxed": {
+    "x": 0.5,
+    "y": -2.5,
+    "name": "Relaxed",
+    "type": "low_eng_pleasant",
+    "description": "freed from or lacking in precision or stringency"
+  },
+  "Good": {
+    "x": 0.5,
+    "y": -1.5,
+    "name": "Good",
+    "type": "low_eng_pleasant",
+    "description": "of a favorable character or tendency"
+  },
+  "Calm": {
+    "x": 0.5,
+    "y": -0.5,
+    "name": "Calm",
+    "type": "low_eng_pleasant",
+    "description": "a period or condition of freedom from storms, high winds, or rough activity of water"
+  },
+  "Bored": {
+    "x": -0.5,
+    "y": -0.5,
+    "name": "Bored",
+    "type": "low_eng_unpleasant",
+    "description": "filled with or characterized by boredom"
+  },
+  "Tired": {
+    "x": -0.5,
+    "y": -1.5,
+    "name": "Tired",
+    "type": "low_eng_unpleasant",
+    "description": "drained of strength and energy : fatigued often to the point of exhaustion"
+  },
+  "Fatigued": {
+    "x": -0.5,
+    "y": -2.5,
+    "name": "Fatigued",
+    "type": "low_eng_unpleasant",
+    "description": "drained of strength and energy : affected by fatigue"
+  },
+  "Disengaged": {
+    "x": -0.5,
+    "y": -3.5,
+    "name": "Disengaged",
+    "type": "low_eng_unpleasant",
+    "description": "detached"
+  },
+  "Apathetic": {
+    "x": -0.5,
+    "y": -4.5,
+    "name": "Apathetic",
+    "type": "low_eng_unpleasant",
+    "description": "affected by, characterized by, or displaying apathy : having or showing little or no interest, concern, or emotion"
+  },
+  "Helpless": {
+    "x": -0.5,
+    "y": -5.5,
+    "name": "Helpless",
+    "type": "low_eng_unpleasant",
+    "description": "lacking protection or support : defenseless"
+  },
+  "Exhausted": {
+    "x": -1.5,
+    "y": -5.5,
+    "name": "Exhausted",
+    "type": "low_eng_unpleasant",
+    "description": "completely or almost completely depleted of resources or contents"
+  },
+  "Lonely": {
+    "x": -1.5,
+    "y": -4.5,
+    "name": "Lonely",
+    "type": "low_eng_unpleasant",
+    "description": "being without company : lone"
+  },
+  "Discouraged": {
+    "x": -1.5,
+    "y": -3.5,
+    "name": "Discouraged",
+    "type": "low_eng_unpleasant",
+    "description": "to deprive of courage or confidence : dishearten"
+  },
+  "Sad": {
+    "x": -1.5,
+    "y": -2.5,
+    "name": "Sad",
+    "type": "low_eng_unpleasant",
+    "description": "affected with or expressive of grief or unhappiness : downcast"
+  },
+  "Meh": {
+    "x": -1.5,
+    "y": -1.5,
+    "name": "Meh",
+    "type": "low_eng_unpleasant",
+    "description": "\u2014used to express indifference or mild disappointment"
+  },
+  "Down": {
+    "x": -1.5,
+    "y": -0.5,
+    "name": "Down",
+    "type": "low_eng_unpleasant",
+    "description": "toward or in a lower physical position"
+  },
+  "Disheartened": {
+    "x": -2.5,
+    "y": -0.5,
+    "name": "Disheartened",
+    "type": "low_eng_unpleasant",
+    "description": "to cause to lose hope, enthusiasm, or courage : to cause to lose spirit or morale"
+  },
+  "Disappointed": {
+    "x": -2.5,
+    "y": -1.5,
+    "name": "Disappointed",
+    "type": "low_eng_unpleasant",
+    "description": "defeated in expectation or hope"
+  },
+  "Forlorn": {
+    "x": -2.5,
+    "y": -2.5,
+    "name": "Forlorn",
+    "type": "low_eng_unpleasant",
+    "description": "bereft, forsaken"
+  },
+  "Spent": {
+    "x": -2.5,
+    "y": -3.5,
+    "name": "Spent",
+    "type": "low_eng_unpleasant",
+    "description": "used up : consumed"
+  },
+  "Nostalgic": {
+    "x": -2.5,
+    "y": -4.5,
+    "name": "Nostalgic",
+    "type": "low_eng_unpleasant",
+    "description": "feeling or inspiring nostalgia: such as"
+  },
+  "Burned Out": {
+    "x": -2.5,
+    "y": -5.5,
+    "name": "Burned Out",
+    "type": "low_eng_unpleasant",
+    "description": "worn-out; also : exhausted"
+  },
+  "Glum": {
+    "x": -3.5,
+    "y": -5.5,
+    "name": "Glum",
+    "type": "low_eng_unpleasant",
+    "description": "broodingly morose"
+  },
+  "Alienated": {
+    "x": -3.5,
+    "y": -4.5,
+    "name": "Alienated",
+    "type": "low_eng_unpleasant",
+    "description": "feeling withdrawn or separated from others or from society as a whole : affected by alienation"
+  },
+  "Excluded": {
+    "x": -3.5,
+    "y": -3.5,
+    "name": "Excluded",
+    "type": "low_eng_unpleasant",
+    "description": "to prevent or restrict the entrance of"
+  },
+  "Disconnected": {
+    "x": -3.5,
+    "y": -2.5,
+    "name": "Disconnected",
+    "type": "low_eng_unpleasant",
+    "description": "not connected : separate; also : incoherent"
+  },
+  "Lost": {
+    "x": -3.5,
+    "y": -1.5,
+    "name": "Lost",
+    "type": "low_eng_unpleasant",
+    "description": "ruined or destroyed physically or morally"
+  },
+  "Insecure": {
+    "x": -3.5,
+    "y": -0.5,
+    "name": "Insecure",
+    "type": "low_eng_unpleasant",
+    "description": "deficient in assurance : beset by fear and anxiety"
+  },
+  "Trapped": {
+    "x": -4.5,
+    "y": -0.5,
+    "name": "Trapped",
+    "type": "low_eng_unpleasant",
+    "description": "to catch or take in or as if in a trap : entrap"
+  },
+  "Ashamed": {
+    "x": -4.5,
+    "y": -1.5,
+    "name": "Ashamed",
+    "type": "low_eng_unpleasant",
+    "description": "feeling shame, guilt, or disgrace"
+  },
+  "Vulnerable": {
+    "x": -4.5,
+    "y": -2.5,
+    "name": "Vulnerable",
+    "type": "low_eng_unpleasant",
+    "description": "capable of being physically or emotionally wounded"
+  },
+  "Numb": {
+    "x": -4.5,
+    "y": -3.5,
+    "name": "Numb",
+    "type": "low_eng_unpleasant",
+    "description": "unable to feel anything in a particular part of your body especially as a result of cold or anesthesia"
+  },
+  "Hopeless": {
+    "x": -4.5,
+    "y": -4.5,
+    "name": "Hopeless",
+    "type": "low_eng_unpleasant",
+    "description": "having no expectation of good or success : despairing"
+  },
+  "Despair": {
+    "x": -4.5,
+    "y": -5.5,
+    "name": "Despair",
+    "type": "low_eng_unpleasant",
+    "description": "utter loss of hope"
+  },
+  "Miserable": {
+    "x": -5.5,
+    "y": -5.5,
+    "name": "Miserable",
+    "type": "low_eng_unpleasant",
+    "description": "being in a pitiable state of distress or unhappiness (as from want or shame)"
+  },
+  "Depressed": {
+    "x": -5.5,
+    "y": -4.5,
+    "name": "Depressed",
+    "type": "low_eng_unpleasant",
+    "description": "low in spirits : sad; especially : affected by psychological depression"
+  },
+  "Guilty": {
+    "x": -5.5,
+    "y": -3.5,
+    "name": "Guilty",
+    "type": "low_eng_unpleasant",
+    "description": "justly chargeable with or responsible for a usually grave breach of conduct or a crime"
+  },
+  "Pessimistic": {
+    "x": -5.5,
+    "y": -2.5,
+    "name": "Pessimistic",
+    "type": "low_eng_unpleasant",
+    "description": "of, relating to, or characterized by pessimism : gloomy"
+  },
+  "Humiliated": {
+    "x": -5.5,
+    "y": -1.5,
+    "name": "Humiliated",
+    "type": "low_eng_unpleasant",
+    "description": "to reduce (someone) to a lower position in one's own eyes or others' eyes : to make (someone) ashamed or embarrassed : mortify"
+  },
+  "Disgusted": {
+    "x": -5.5,
+    "y": -0.5,
+    "name": "Disgusted",
+    "type": "low_eng_unpleasant",
+    "description": "feeling or showing disgust : disturbed physically or mentally by something distasteful"
+  },
+  "Contempt": {
+    "x": -5.5,
+    "y": 0.5,
+    "name": "Contempt",
+    "type": "high_eng_unpleasant",
+    "description": "the act of despising : the state of mind of one who despises : disdain"
+  },
+  "Envious": {
+    "x": -5.5,
+    "y": 1.5,
+    "name": "Envious",
+    "type": "high_eng_unpleasant",
+    "description": "feeling or showing envy"
+  },
+  "Jealous": {
+    "x": -5.5,
+    "y": 2.5,
+    "name": "Jealous",
+    "type": "high_eng_unpleasant",
+    "description": "hostile toward a rival or one believed to enjoy an advantage : envious"
+  },
+  "Furious": {
+    "x": -5.5,
+    "y": 3.5,
+    "name": "Furious",
+    "type": "high_eng_unpleasant",
+    "description": "exhibiting or goaded by anger"
+  },
+  "Livid": {
+    "x": -5.5,
+    "y": 4.5,
+    "name": "Livid",
+    "type": "high_eng_unpleasant",
+    "description": "discolored by bruising : black-and-blue"
+  },
+  "Enraged": {
+    "x": -5.5,
+    "y": 5.5,
+    "name": "Enraged",
+    "type": "high_eng_unpleasant",
+    "description": "to fill with rage : anger"
+  },
+  "Terrified": {
+    "x": -4.5,
+    "y": 5.5,
+    "name": "Terrified",
+    "type": "high_eng_unpleasant",
+    "description": "to drive or impel by menacing : scare"
+  },
+  "Irate": {
+    "x": -4.5,
+    "y": 4.5,
+    "name": "Irate",
+    "type": "high_eng_unpleasant",
+    "description": "roused to ire"
+  },
+  "Frightened": {
+    "x": -4.5,
+    "y": 3.5,
+    "name": "Frightened",
+    "type": "high_eng_unpleasant",
+    "description": "feeling fear : made to feel afraid"
+  },
+  "Scared": {
+    "x": -4.5,
+    "y": 2.5,
+    "name": "Scared",
+    "type": "high_eng_unpleasant",
+    "description": "thrown into or being in a state of fear, fright, or panic"
+  },
+  "Repulsed": {
+    "x": -4.5,
+    "y": 1.5,
+    "name": "Repulsed",
+    "type": "high_eng_unpleasant",
+    "description": "to drive or beat back : repel"
+  },
+  "Troubled": {
+    "x": -4.5,
+    "y": 0.5,
+    "name": "Troubled",
+    "type": "high_eng_unpleasant",
+    "description": "concerned, worried"
+  },
+  "Worried": {
+    "x": -3.5,
+    "y": 0.5,
+    "name": "Worried",
+    "type": "high_eng_unpleasant",
+    "description": "mentally troubled or concerned : feeling or showing concern or anxiety about what is happening or might happen"
+  },
+  "Frustrated": {
+    "x": -3.5,
+    "y": 1.5,
+    "name": "Frustrated",
+    "type": "high_eng_unpleasant",
+    "description": "feeling, showing, or characterized by frustration: such as"
+  },
+  "Angry": {
+    "x": -3.5,
+    "y": 2.5,
+    "name": "Angry",
+    "type": "high_eng_unpleasant",
+    "description": "feeling or showing anger"
+  },
+  "Anxious": {
+    "x": -3.5,
+    "y": 3.5,
+    "name": "Anxious",
+    "type": "high_eng_unpleasant",
+    "description": "characterized by extreme uneasiness of mind or brooding fear about some contingency : worried"
+  },
+  "Overwhelmed": {
+    "x": -3.5,
+    "y": 4.5,
+    "name": "Overwhelmed",
+    "type": "high_eng_unpleasant",
+    "description": "overcome by force or numbers"
+  },
+  "Panicked": {
+    "x": -3.5,
+    "y": 5.5,
+    "name": "Panicked",
+    "type": "high_eng_unpleasant",
+    "description": "to affect with panic"
+  },
+  "Shocked": {
+    "x": -2.5,
+    "y": 5.5,
+    "name": "Shocked",
+    "type": "high_eng_unpleasant",
+    "description": "affected by shock : stricken with sudden mental or emotional disturbance"
+  },
+  "Stressed": {
+    "x": -2.5,
+    "y": 4.5,
+    "name": "Stressed",
+    "type": "high_eng_unpleasant",
+    "description": "subjected to or affected by stress"
+  },
+  "Apprehensive": {
+    "x": -2.5,
+    "y": 3.5,
+    "name": "Apprehensive",
+    "type": "high_eng_unpleasant",
+    "description": "viewing the future with anxiety or alarm : feeling or showing fear or apprehension about the future"
+  },
+  "Jittery": {
+    "x": -2.5,
+    "y": 2.5,
+    "name": "Jittery",
+    "type": "high_eng_unpleasant",
+    "description": "suffering from the jitters"
+  },
+  "Embarrassed": {
+    "x": -2.5,
+    "y": 1.5,
+    "name": "Embarrassed",
+    "type": "high_eng_unpleasant",
+    "description": "feeling or showing a state of self-conscious confusion and distress"
+  },
+  "Nervous": {
+    "x": -2.5,
+    "y": 0.5,
+    "name": "Nervous",
+    "type": "high_eng_unpleasant",
+    "description": "timid, apprehensive"
+  },
+  "Peeved": {
+    "x": -1.5,
+    "y": 0.5,
+    "name": "Peeved",
+    "type": "high_eng_unpleasant",
+    "description": "to make peevish or resentful : annoy"
+  },
+  "Concerned": {
+    "x": -1.5,
+    "y": 1.5,
+    "name": "Concerned",
+    "type": "high_eng_unpleasant",
+    "description": "anxious, worried"
+  },
+  "Fomo": {
+    "x": -1.5,
+    "y": 2.5,
+    "name": "Fomo",
+    "type": "high_eng_unpleasant",
+    "description": "fear of missing out : fear of not being included in something (such as an interesting or enjoyable activity) that others are experiencing"
+  },
+  "Irritated": {
+    "x": -1.5,
+    "y": 3.5,
+    "name": "Irritated",
+    "type": "high_eng_unpleasant",
+    "description": "subjected to irritation; especially : roughened, reddened, or inflamed by an irritant"
+  },
+  "Annoyed": {
+    "x": -1.5,
+    "y": 4.5,
+    "name": "Annoyed",
+    "type": "high_eng_unpleasant",
+    "description": "feeling or showing angry irritation"
+  },
+  "Impassioned": {
+    "x": -1.5,
+    "y": 5.5,
+    "name": "Impassioned",
+    "type": "high_eng_unpleasant",
+    "description": "filled with passion or zeal : showing great warmth or intensity of feeling"
+  },
+  "Hyper": {
+    "x": -0.5,
+    "y": 5.5,
+    "name": "Hyper",
+    "type": "high_eng_unpleasant",
+    "description": "high-strung, excitable; also : highly excited"
+  },
+  "Pressured": {
+    "x": -0.5,
+    "y": 4.5,
+    "name": "Pressured",
+    "type": "high_eng_unpleasant",
+    "description": "to apply pressure to"
+  },
+  "Restless": {
+    "x": -0.5,
+    "y": 3.5,
+    "name": "Restless",
+    "type": "high_eng_unpleasant",
+    "description": "lacking or denying rest : uneasy"
+  },
+  "Confused": {
+    "x": -0.5,
+    "y": 2.5,
+    "name": "Confused",
+    "type": "high_eng_unpleasant",
+    "description": "being perplexed or disconcerted"
+  },
+  "Tense": {
+    "x": -0.5,
+    "y": 1.5,
+    "name": "Tense",
+    "type": "high_eng_unpleasant",
+    "description": "stretched tight : made taut : rigid"
+  },
+  "Uneasy": {
+    "x": -0.5,
+    "y": 0.5,
+    "name": "Uneasy",
+    "type": "high_eng_unpleasant",
+    "description": "causing physical or mental discomfort"
+  }
+}
