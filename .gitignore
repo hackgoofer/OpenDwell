@@ -7,13 +7,14 @@ firebase-key.json
 config.yaml
 
 
+database.db
+dwell.db
+
 .venv/
 __pycache__/
 analytics/
 uploads/
-
-database.db
-dwell.db
+support/
 
 oldcode/
 experiments/
@@ -22,5 +23,4 @@ auth/providers/streamlit_auth_provider.py
 auth/providers/dwell_descriptions.json
 
 user_profile.txt
-offline_emotions.py
 
