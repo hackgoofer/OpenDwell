@@ -4,6 +4,7 @@
 .env
 user_config.json
 filebase-key.json
+config.yaml
 
 .venv/
 __pycache__/
