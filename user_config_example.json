@@ -1,0 +1,9 @@
+{
+  "user_id": "local_user_001",
+  "first_name": "Local",
+  "last_name": "Developer",
+  "email": "developer@localhost.com",
+  "bio": "I am a hacker who wants to be better at life. I participate in hackathons focused on productivity tools for the humanities. I'm passionate about creating impactful tools while maintaining strong friendships. I live in San Francisco and value personal relationships as a source of joy and support in my busy professional environment.",
+  "user_profile_path": "user_profile.txt",
+  "user_values_path": "user_values.txt"
+}
