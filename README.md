@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="resources/github-banner.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/hackgoofer/opendwell/main/.github/github-banner.png" alt="Logo">
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@ Your emotions are the access points. They are your nervous systems' reaction to 
 - Verified emotions gets mapped into an emotion (arouisal / valence matrix) [[example paper link](https://www.sciencedirect.com/science/article/pii/S0191886923000740)]
 
 <div align="center">
-  <video src="resources/emotions.mp4" width="650" autoplay loop muted></video>
+  <video src="https://raw.githubusercontent.com/hackgoofer/opendwell/main/.github/images/emotions.mp4" width="650" autoplay loop muted></video>
 </div>
 
 ## Values Awareness
@@ -50,7 +50,7 @@ You might notice a difference between your `aspirational values` (the ones you v
 - Verified values show up in a graph, the nodes higher in the graph are more important than the modes lower in the graph.
 
 <div align="center">
-  <video src="resources/values.mp4" width="650" autoplay loop muted></video>
+  <video src="https://raw.githubusercontent.com/hackgoofer/opendwell/main/.github/images/values.mp4" width="650" autoplay loop muted></video>
 </div>
 
 ## Perspectives
@@ -64,7 +64,7 @@ Facts happen. Then we tell a story about them—and that story isn’t always ac
 - when you are done, click lucky perspective, to ask it to summarize.
 
 <div align="center">
-    <video src="resources/lucky-perspectives.mp4"  width="650" autoplay loop muted></video>
+    <video src="https://raw.githubusercontent.com/hackgoofer/opendwell/main/.github/images/lucky-perspectives.mp4"  width="650" autoplay loop muted></video>
 </div>
 
 # Setup Instructions
@@ -106,7 +106,7 @@ streamlit run Dwell.py
 PS. I like this pic
 
 <div align="center">
-    <img src="resources/opensource.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/hackgoofer/opendwell/main/.github/opensource.png" alt="Logo">
 </div>
 
 ## If you have issues - find Sasha
