@@ -20,6 +20,7 @@ from datetime import datetime
 import plotly.express as px
 import collections
 from datetime import datetime
+import plotly.graph_objects as go
 
 set_wide_page(st)
 
@@ -299,40 +300,58 @@ def _reformat_data(reviewed_entries):
 
 
 def plot_emotions_for_date(df, date):
+    # Use plotly like the working test
+    
     df_date = df[df["date"] == date]
-    fig = px.scatter(
-        df_date,
-        x="x",
-        y="y",
-        size="pop",
-        color="emotion",
-        hover_name="emotion",
-        log_x=False,
-        size_max=15,
-        range_x=[-6, 6],
-        range_y=[-6, 6],
-    )
-
+    
+    if df_date.empty:
+        st.write("No data found for the selected date.")
+        return
+    
+    # Create plotly scatter plot with different colors for each emotion
+    fig = go.Figure()
+    
+    # Define colors for different emotions
+    colors = ['red', 'blue', 'green', 'orange', 'purple', 'brown', 'pink', 'gray', 'olive', 'cyan']
+    
+    # Add a separate trace for each unique emotion
+    for i, emotion in enumerate(df_date['emotion'].unique()):
+        emotion_data = df_date[df_date['emotion'] == emotion]
+        
+        # Calculate marker sizes based on pop values (scale them up for visibility)
+        marker_sizes = (emotion_data['pop'] * 15 + 10).tolist()  # min size 10, scales by 15x
+        
+        fig.add_trace(go.Scatter(
+            x=emotion_data['x'].tolist(),
+            y=emotion_data['y'].tolist(),
+            mode='markers',
+            marker=dict(
+                size=marker_sizes, 
+                color=colors[i % len(colors)],
+                sizemode='diameter'
+            ),
+            name=emotion,
+            text=[f"{em} (pop: {pop})" for em, pop in zip(emotion_data['emotion'], emotion_data['pop'])],
+            textposition="top center",
+            hovertemplate='%{text}<br>X: %{x}<br>Y: %{y}<extra></extra>'
+        ))
+    
     fig.update_layout(
-        xaxis=dict(
-            zeroline=True,
-            zerolinecolor="white",
-            title_text="X",
-            color="#ff0",
-        )
+        title="Emotions Scatter Plot",
+        xaxis_title="Valence",
+        yaxis_title="Arousal",
+        xaxis=dict(range=[-6, 6]),
+        yaxis=dict(range=[-6, 6]),
+        width=800,
+        height=600,
+        showlegend=False
     )
-    fig.update_xaxes(title_text="Valence", title_font={"size": 20}, title_standoff=25)
-
-    fig.update_layout(
-        yaxis=dict(
-            zeroline=True,
-            zerolinecolor="white",
-            title_text="Y",
-            color="#ff0",
-        )
-    )
-    fig.update_yaxes(title_text="Arousal", title_font={"size": 20}, title_standoff=25)
-    st.plotly_chart(fig)
+    
+    # Add center lines
+    fig.add_hline(y=0, line_dash="dash", line_color="gray")
+    fig.add_vline(x=0, line_dash="dash", line_color="gray")
+    
+    st.plotly_chart(fig, use_container_width=True)
 
 
 def view_emotions(reviewed_entries):
