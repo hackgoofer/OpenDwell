@@ -114,12 +114,10 @@ streamlit run Dwell.py
 
 ## Step 5: Have fun
 
-PS. I like this pic
+PS.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/hackgoofer/opendwell/main/.github/opensource.png" alt="Logo">
+<img width="1024" height="1024" alt="opensource" src="https://github.com/user-attachments/assets/81130415-bcfb-4509-b836-3f9275bdc1d0" />
+
 </div>
 
-## If you have issues - find Sasha
-
-@hackgoofer
