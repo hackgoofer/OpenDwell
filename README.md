@@ -34,7 +34,10 @@ Your emotions are the access points. They are your nervous systems' reaction to 
 - Verified emotions gets mapped into an emotion (arouisal / valence matrix) [[example paper link](https://www.sciencedirect.com/science/article/pii/S0191886923000740)]
 
 <div align="center">
-  <video src="https://raw.githubusercontent.com/hackgoofer/opendwell/main/.github/images/emotions.mp4" width="650" autoplay loop muted></video>
+
+
+https://github.com/user-attachments/assets/b03f3c76-20ed-4a4d-9397-a85fddeaffcf
+
 </div>
 
 ## Values Awareness
@@ -50,7 +53,11 @@ You might notice a difference between your `aspirational values` (the ones you v
 - Verified values show up in a graph, the nodes higher in the graph are more important than the modes lower in the graph.
 
 <div align="center">
-  <video src="https://raw.githubusercontent.com/hackgoofer/opendwell/main/.github/images/values.mp4" width="650" autoplay loop muted></video>
+
+
+https://github.com/user-attachments/assets/4be80570-e5c0-438b-a8d8-1f3259d09f79
+
+
 </div>
 
 ## Perspectives
@@ -64,7 +71,11 @@ Facts happen. Then we tell a story about them—and that story isn’t always ac
 - when you are done, click lucky perspective, to ask it to summarize.
 
 <div align="center">
-    <video src="https://raw.githubusercontent.com/hackgoofer/opendwell/main/.github/images/lucky-perspectives.mp4"  width="650" autoplay loop muted></video>
+
+
+https://github.com/user-attachments/assets/9d3607aa-f04c-4956-a174-f5d9880e702b
+
+
 </div>
 
 # Setup Instructions
