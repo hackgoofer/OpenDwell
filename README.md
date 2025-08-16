@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/hackgoofer/opendwell/main/.github/github-banner.png" alt="Logo">
+    <img width="1126" height="427" alt="github-banner" src="https://github.com/user-attachments/assets/b32ec128-c1d3-4196-864c-bfb6483d8337" />
 </div>
 
 <div align="center">
